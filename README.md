@@ -1,6 +1,6 @@
 # YouTube Music Artist Network Mapper
 
-Project ini menggunakan Python untuk melakukan crawling data artis terkait dari YouTube Music dan memvisualisasikannya dalam bentuk jaringan (Network Graph).
+Project ini menggunakan Python untuk melakukan crawling artis dari YouTube Music dan memvisualisasikannya dalam bentuk jaringan (Network Graph).
 
 ## Fitur
 - **Level 1 Crawling**: Mengambil artis yang mirip dengan My Chemical Romance.
