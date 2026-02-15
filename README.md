@@ -14,5 +14,5 @@ Project ini menggunakan Python untuk melakukan crawling artis dari YouTube Music
 - **NetworkX**: Untuk analisis algoritma graf.
 - **Pyvis**: Untuk visualisasi interaktif (HTML).
 
-## 📊 Hasil
+## Hasil
 Jaringan saat ini terdiri dari **46 artis** yang saling terhubung berdasarkan kemiripan genre dan algoritma YouTube Music.
